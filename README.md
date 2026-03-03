@@ -8,6 +8,10 @@ Works on **iOS Safari** (Taptic Engine) and **Android Chrome** (`navigator.vibra
 
 Open the [live demo](https://sbis04.github.io/flutter_web_haptics/) on your phone to feel each preset.
 
+> **Android:** Make sure **"Touch feedback"** (or "Vibration feedback") is enabled in your device's **Sound & vibration** settings, otherwise `navigator.vibrate()` calls will be silently ignored.
+>
+> **iOS:** Requires **iPhone 7+** (Taptic Engine). Ensure **"System Haptics"** is on in **Settings > Sounds & Haptics**.
+
 ## How it works
 
 | Platform | Mechanism |
