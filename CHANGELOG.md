@@ -6,3 +6,8 @@
 - iOS Taptic Engine support via hidden checkbox-switch trick.
 - Android support via navigator.vibrate() with PWM intensity modulation.
 - Desktop debug mode with Web Audio API click sounds.
+
+## 0.0.2
+
+- Updated homepage, repository, and issue tracker URLs.
+- Update Readme
