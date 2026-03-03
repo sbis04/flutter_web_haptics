@@ -1,0 +1,17 @@
+name: web_haptics
+description: >-
+  Haptic feedback for Flutter web apps. Uses the iOS Taptic Engine via the
+  checkbox-switch trick and navigator.vibrate() as the Android/fallback path.
+  A Dart port of the web-haptics JavaScript library by Lochie Axon.
+version: 0.0.1
+repository: https://github.com/aspect-build/flutter_web_haptics
+homepage: https://web-haptics.com
+issue_tracker: https://github.com/aspect-build/flutter_web_haptics/issues
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  web: ^1.1.0
+dev_dependencies:
+  lints: ^6.1.0

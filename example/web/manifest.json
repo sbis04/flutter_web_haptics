@@ -1,0 +1,8 @@
+{
+  "name": "web_haptics",
+  "short_name": "web_haptics",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
